@@ -7,7 +7,8 @@ I decoded the audio file using on online Morse code audio decoder.
 
 Tool: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 
-<img width="1423" height="842" alt="image" src="https://github.com/user-attachments/assets/103aa1eb-6de4-40c2-bf51-54c55ad63337" />
+<img width="1423" height="842" alt="Screenshot 2025-07-31 095431" src="https://github.com/user-attachments/assets/96542a0f-cb45-4ac7-976c-b9481e99cf15" />
+
 
 On using the password obtained above, the file was opened and found the flag.
 <img width="598" height="470" alt="image" src="https://github.com/user-attachments/assets/bc57c976-e26c-44ba-ae2f-1cc6f3824aed" />
